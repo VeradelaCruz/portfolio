@@ -83,7 +83,7 @@ Includes role-based access and entity relationships with MongoDB collections.
 
 ## 📫 Contact
 📧 **Email:** vera.de.la.cruz@workmail.com 
-💼 **LinkedIn:** [linkedin.com/in/veradelacruz](https://linkedin.com/in/veradelacruz)  
+💼 **LinkedIn:** [linkedin.com/in/veradelacruz](www.linkedin.com/in/vera-de-la-cruz-76897238b)  
 🌐 **GitHub:** [github.com/VeraDeLaCruz](https://github.com/VeraDeLaCruz)
 
 ---
