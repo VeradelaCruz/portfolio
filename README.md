@@ -20,7 +20,7 @@ A complete management system for an amusement park. It allows administrators to 
 - REST API documentation with Swagger  
 
 **Tech Stack:**  
-`Java 17` · `Spring Boot` · `Spring Data MongoDB` · `Postman` · `Docker` . `Spring Boot Cache`
+`Java 17` · `Spring Boot` · `Spring Data MongoDB` · `Postman` · `Docker` . `JUnit` · `Mockito` . `Spring Boot Cache`
 
 **Repository:** [View on GitHub](https://github.com/VeradelaCruz/amusement-park-app.git)
 
@@ -37,7 +37,7 @@ A reactive microservice for managing geological data. It handles geologists, reg
 - Containerized with **Docker Compose**  
 
 **Tech Stack:**  
-`Java 17` · `Spring WebFlux` · `MongoDB` · `Docker` · `JUnit` · `Mockito`  
+`Java 17` · `Spring Boot` · `Spring Data MongoDB` · `Postman` . `Docker` · `JUnit` · `Mockito`  .
 
 **Repository:** [View on GitHub](https://github.com/VeradelaCruz/geodata-services.git)
 
@@ -55,7 +55,7 @@ Includes role-based access and entity relationships with MongoDB collections.
 - Unit and integration testing  
 
 **Tech Stack:**  
-`Java 17` · `Spring Boot` · `Spring Security` · `Spring Data MongoDB` · `JUnit` · `Mockito`  
+`Java 17` · `Spring Boot` · `Spring Data MongoDB` · `Postman` . `Docker` · `JUnit` · `Mockito`  
 
 **Repository:** [View on GitHub](https://github.com/VeradelaCruz/mini_netflix.git)
 
